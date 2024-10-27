@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Script Glitch | Lyrics Web App</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Satisfy&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="Assets/CSS/style.css">
+</head>
+<body>
+  <header>
+    <span class="logo-t">Lyrics Web App</span>
+</header>
+
+  <div class="lyrics-container">
+    <h1 id="current-line" class="l-t-g"></h1>
+  </div>
+  <button id="start-btn">Start Lyrics</button>
+  <audio id="song" src="Assets/Music/Obak-Bhalobasha.MP3"></audio>
+  <footer class="footer">
+    <span style="color: #fff">Coded by @ </span>
+    <span>Kawsar Ahmed</span>
+    <span style="color: #fff"> | </span>
+    <a href="https://github.com/ScriptGlitch/Lyrics-web-app" target="_blank">Source Code</a>
+</footer>
+  <script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
+  <script> var sf = new Snowflakes({color: "#ffffff", count: 15}); </script>
+  <script src="Assets/Script/script.js"></script>
+</body>
+</html>
