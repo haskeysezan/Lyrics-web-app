@@ -1,10 +1,10 @@
-# Lyrics Web App 🎶
+# Obak Bhalobasha 🎶
 
 A web application that syncs and displays lyrics alongside an audio track, creating an immersive, karaoke-like experience. This project uses a typewriter effect to animate each line of lyrics, timed to match the song's duration.
 
 ## Demo
 
-![Lyrics Web App Demo](https://github.com/ScriptGlitch/Lyrics-Web-App/blob/main/Assets/Image/demo.gif)
+![Lyrics Web App Demo](https://github.com/haskeysezan/Lyrics-Web-App/blob/main/Assets/Image/demo.gif)
 
 ## Features
 
@@ -19,5 +19,5 @@ A web application that syncs and displays lyrics alongside an audio track, creat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ScriptGlitch/Lyrics-web-app.git
+    git clone https://github.com/haskeysezan/Lyrics-web-app.git
     ```
