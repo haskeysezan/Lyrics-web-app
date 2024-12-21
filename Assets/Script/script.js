@@ -78,4 +78,4 @@ startBtn.addEventListener('click', () => {
   startBtn.style.display = 'none';
   audio.play(); // Play the song when button is clicked
   displayLyrics();
-});
+});
